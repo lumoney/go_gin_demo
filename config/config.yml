@@ -1,0 +1,11 @@
+server:
+  port: 8000
+datasource:
+  driverName: mysql
+  host: 127.0.0.1
+  port: 3306
+  database: go
+  username: go
+  password: 123456
+  charset: utf8mb4
+  loc: Asia/Shanghai
